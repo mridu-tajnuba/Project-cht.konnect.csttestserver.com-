@@ -24,7 +24,7 @@ This project demonstrates complete manual testing of a web application including
 
 ### 🛠Tools Used
 - Google Sheets
-- Snagit
+- Microsoft Excel
 - Browser DevTools
 
 ### 📊Outcome
