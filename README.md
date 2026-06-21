@@ -18,9 +18,6 @@ This project demonstrates complete manual testing of a web application including
   - Steps to reproduce
   - Severity
 
-### 🔹Test Plan
-- Includes testing strategy, scope, and approach
-
 ### 🛠Tools Used
 - Google Sheets
 - Microsoft Excel
